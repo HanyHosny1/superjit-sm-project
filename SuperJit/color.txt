@@ -1,0 +1,14 @@
+Text color
+#966E06
+
+brighter text for smaller font
+#AC7E07
+or
+#B88607
+
+background 
+#000
+and 
+#fff
+
+
